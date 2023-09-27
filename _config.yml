@@ -57,3 +57,5 @@ defaults:
   -
     values:
       author: "hypnootis"
+kramdown:
+  parse_block_html: true

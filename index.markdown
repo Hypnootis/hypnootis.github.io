@@ -6,5 +6,8 @@ layout: default
 title: Homepage
 ---
 This homepage looks empty for now, initial deployment test to GitHub Pages.
-[Post]({% post_url /2023-09-26-degree-summer-gamedev %})
-[Test post]({% post_url /2023-09-04-test %})
+
+<h2>Posts:</h2>
+{% for post in site.posts%}
+<a href="{{post.url}}">{{post.title}}</a>
+{% endfor %}
