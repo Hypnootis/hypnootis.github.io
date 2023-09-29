@@ -5,7 +5,7 @@
 layout: default
 title: Homepage
 ---
-This homepage looks empty for now, initial deployment test to GitHub Pages.
+Here should be some of my posts!
 
 <h2>Posts:</h2>
 {% for post in site.posts%}
