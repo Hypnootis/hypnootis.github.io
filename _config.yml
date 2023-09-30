@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The hypnootis corner of the internet
+title: The Mheekpage
 email: tm.pasanen@outlook.com
 description: >- # this means to ignore newlines until "domain:"
-  A Jekyll -made page for all personal purposes and intents
+  Check out Carrot Sky!
 domain: hypnootis.github.io
 # baseurl: /blog # the subpath of your site, e.g. /blog
 url: https://hypnootis.github.io # the base hostname & protocol for your site, e.g. http://example.com
