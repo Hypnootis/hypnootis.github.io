@@ -5,7 +5,15 @@
 layout: default
 title: Homepage
 ---
-Here should be some of my posts!
+Here you can find my writings about anything that I feel like writing about. 
+
+You can also find me on:
+
+[GitHub](https://github.com/Hypnootis)
+[LinkedIn](https://www.linkedin.com/in/tuomas-pasanen-85067a204/)
+[itch.io](https://hypnootis.itch.io/)
+
+Or you can [e-mail](mailto:tm.pasanen@outlook.com) me.
 
 <h2>Posts:</h2>
 {% for post in site.posts%}
