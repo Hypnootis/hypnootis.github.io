@@ -4,6 +4,16 @@ title: "Project: Arctricity"
 tags: academia software android project retrospective react
 ---
 
+TL;DR of tech used:
+-   [Expo]() as a development platform and for testing on Android
+-   [React Native](https://reactnative.dev/) for the app
+-   [React Native Paper](https://reactnativepaper.com/) for the UI components
+-   [Google Firestore](https://firebase.google.com/docs/firestore) for the database
+-   [Node-RED](https://nodered.org/) for connecting the customer's system with ours
+-   [pandas](https://pandas.pydata.org/) for data analysis
+-   [Azure DevOps](https://azure.microsoft.com/en-us/products/devops) for project management
+-   [GitHub](https://github.com/Hypnootis/Arctricity/tree/main) for version control and storing code
+
 ![An image displaying the text "arctricity" on top of an image of space](/images/arctricity_with_space_smaller.jpeg){: width="250"}
 
 This beautiful logo was composed by yours truly for a school project. A portmanteau of "electricity" and "arctic", our team found it to fit our little mobile app, with electricity representing the central theme of our assignment and the arctic representing the cold harshness of software development that we faced. Well, that or the location and main marketing gimmick of our physical area, that's left as an exercise to the reader. 
@@ -15,6 +25,8 @@ For the rest, let me give you a quick rundown of the purpose of our little app:
 With a quick glance of our app, the user receives useful information of their home's heating system, and in our specific case for a customer who has in addition to spot priced electric heating a wood-style heating possibility, if they should stock up on firewood to reduce their total electricity bill.
 
 ![A screenshot of the landing page of the arctricity mobile app. Displays several statistics such as the current spot price of electricity, upcoming temperature for the next 24 hours and a number that gives a hint if the customer should burn more firewood.](/images/arctricity-app.jpeg){: width="250"}
+
+
 
 
 
